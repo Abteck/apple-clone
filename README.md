@@ -1,0 +1,1 @@
+okay so this is a clone of the landing page of Apple website, but i couldnt add the image slider on my work because i wanted this clone to be created using only tailwindcss(although i added a little js on the mobile menu dropdown). will update this clone once i learn Javascript.
